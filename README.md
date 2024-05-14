@@ -47,5 +47,7 @@ AI fairytale maker Project
 
 ## How to use
 First run : docker-compose -f podman-compose.yml up --build -d
+
 Run :  docker-compose -f podman-compose.yml up -d
+
 Exit :  docker-compose -f podman-compose.yml down
